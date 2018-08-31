@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Chloé Gfeller
 
-You can use the [editor on GitHub](https://github.com/gf-chloe/gf-chloe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a first-year PhD candidate at the [University of Southern California](https://www.usc.edu/), in the [Department of Linguistics](https://dornsife.usc.edu/ling/). I graduated from Université Paris-Diderot in June 2018. 
 
 ### Markdown
 
