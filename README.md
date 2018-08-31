@@ -1,5 +1,3 @@
-## Chloé Gfeller
-
 I am a first-year PhD candidate at the [University of Southern California](https://www.usc.edu/), in the [Department of Linguistics](https://dornsife.usc.edu/ling/). I graduated from Université Paris-Diderot in June 2018. 
 
 ### Markdown
