@@ -6,5 +6,5 @@ I am a first-year PhD candidate at the [University of Southern California](https
 
 ---
 
-I am particularly interested in phonetics and phonology, and in anything that is related to the sounds of languages. In my master's thesis, I studied positional allophones of ejectives. I showed that the phonetic realization of Georgian ejective stops was different among contexts and speakers, and are not consistent with variations of glottal tension. 
+I am particularly interested in phonetics and phonology, and in anything that is related to the sounds of languages. In my master's thesis, I studied positional allophones of ejectives. I showed that the phonetic realization of Georgian ejective stops was different among contexts and speakers, and were not consistent with variations of glottal tension. 
 
