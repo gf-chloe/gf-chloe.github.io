@@ -6,5 +6,6 @@ I am a first-year PhD student at the [University of Southern California](https:/
 
 ---
 
-[Link to my ASA poster](./posters/ASA_Fall2018_Gfeller.pdf)
+### Poster:
 
+[Positional allophony in ejective stops: A case study of Georgian](./posters/ASA_Fall2018_Gfeller.pdf), presented at the 176th meeting of the ASA in Victoria, BC (Canada). 
