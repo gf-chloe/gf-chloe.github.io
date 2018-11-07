@@ -6,5 +6,5 @@ I am a first-year PhD student at the [University of Southern California](https:/
 
 ---
 
-[Link to my ASA poster](./posters/asa_poster_gfeller.pdf)
+[Link to my ASA poster](./posters/ASA_Fall2018_Gfeller.pdf)
 
